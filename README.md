@@ -1,4 +1,4 @@
-# vinitakanjani-Demo
+# vinita-Demo
 This is my first git repository
 <br>
 Author-Vinita kanjani
